@@ -1,1 +1,3 @@
-marks: 100
+hw: 100
+lab: 100
+try to provide more explanation 
